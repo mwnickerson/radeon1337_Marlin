@@ -19,7 +19,7 @@ In the event that your language switches to chinese follow the below video at ti
 
 https://www.youtube.com/watch?v=neS7lB7fCww&t=962s
 
-i have also included the source files so if you eever feel the need to change shit you can :)
+
 
 Happy Printing and The signal cant be stopped ;)
 
@@ -29,3 +29,6 @@ Happy Printing and The signal cant be stopped ;)
 https://github.com/mwnickerson
 
 find us on keybase
+
+branch_managers
+https://keybase.io/team/branch_managers
